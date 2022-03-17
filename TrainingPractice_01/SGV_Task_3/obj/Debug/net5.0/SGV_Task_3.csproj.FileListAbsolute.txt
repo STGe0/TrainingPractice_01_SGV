@@ -1,0 +1,16 @@
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\SGV_Task_3.exe
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\SGV_Task_3.deps.json
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\SGV_Task_3.runtimeconfig.json
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\SGV_Task_3.runtimeconfig.dev.json
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\SGV_Task_3.dll
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\ref\SGV_Task_3.dll
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\bin\Debug\net5.0\SGV_Task_3.pdb
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.csproj.AssemblyReference.cache
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.AssemblyInfoInputs.cache
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.AssemblyInfo.cs
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.csproj.CoreCompileInputs.cache
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.dll
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\ref\SGV_Task_3.dll
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.pdb
+C:\Users\gogog\Desktop\УП.01 Учебная практика Стешкин Г.В. группа ИП - 19 - 3\TrainingPractice_01\SGV_Task_3\obj\Debug\net5.0\SGV_Task_3.genruntimeconfig.cache
